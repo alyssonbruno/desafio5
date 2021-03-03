@@ -1,17 +1,20 @@
 # Instruções
 Usar **Python 2.7.18**
 
+
+## Instalar dependências
+```shell 
+python -m pip install --upgrade pip
+python -m pip install -r requeriments.txt
+```
+
 ## Instalar e Ativar Virtrualenv (opcional)
 ```shell
-python -m pip install --upgrade pip virtualenv
+python -m virtualenv venv
 source venv/bin/activate
 
 ```
 
-## Instalar dependências
-```shell 
-python -m pip install -r requeriments.txt
-```
 ## Compilar
 ```shell
 python -m rpython d5.py
