@@ -1,0 +1,17 @@
+appdirs==1.4.4
+configparser==4.0.2
+contextlib2==0.6.0.post1
+distlib==0.3.1
+filelock==3.0.12
+importlib-metadata==2.1.1
+importlib-resources==3.3.1
+pathlib2==2.3.5
+py==1.10.0
+pytest==2.9.2
+rpython==0.2.1
+scandir==1.10.0
+singledispatch==3.6.1
+six==1.15.0
+typing==3.7.4.3
+virtualenv==20.4.2
+zipp==1.2.0
